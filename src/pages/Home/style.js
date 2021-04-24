@@ -61,6 +61,7 @@ margin-top: 2rem;
 color: white;
 
 h2{
+  color: var(--white);
   padding-top: 1rem;
 }
 @media screen and (min-width: 800px){
