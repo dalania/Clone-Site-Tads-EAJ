@@ -1,16 +1,11 @@
 import {HeaderSite, Nav, Ul, Li} from './style';
 import logo from '../../assets/logo.svg'
 import { NavLink } from "react-router-dom";
-import { useState } from 'react';
+
 export default function Header(){
-  const [teste, setTeste] = useState(false);
+  
 
-  function active(){
-
-    setTeste(!teste);
-    
-    
-  }
+  
   
 
  
@@ -32,21 +27,21 @@ export default function Header(){
           </NavLink>
           </Li>
 
-          <Li> <NavLink to="/projeto"> 
+          <Li> <NavLink activeClassName="active" to="/projeto"> 
           Projeto Pedagógico
           </NavLink>
           </Li>
 
-          <Li> <NavLink to="/noticias"> 
+          <Li> <NavLink activeClassName="active" to="/noticias"> 
             Notícias
           </NavLink>
           </Li>
 
-          <Li> <NavLink to="/resolucao"> 
+          <Li> <NavLink activeClassName="active" to="/resolucao"> 
            Resoluções
           </NavLink>
           </Li>
-          <Li> <NavLink to="/contato"> 
+          <Li> <NavLink activeClassName="active" to="/contato"> 
            Contato
           </NavLink>
           </Li>
