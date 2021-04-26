@@ -37,8 +37,13 @@ div{
   display: flex;
   justify-content: flex-end;
   margin-top: 80px;
-  margin-right: 60px;
+  margin-right: 70px;
   flex-wrap: wrap;
+
+  @media screen and (min-width: 800px){
+    margin-right: 60px;
+
+}
 
  
 }
@@ -50,12 +55,15 @@ border: none;
 iframe{
   border: none;
 }
-
+opacity: 0;
+@media screen and (min-width: 800px){
+  opacity: 1;
+}
 `;
 
 export const Form = styled(Unform)`
 
-width: 100%;
+  width: 100%;
   max-width: 400px;
   display: flex;
   flex-direction: column;
@@ -95,6 +103,8 @@ width: 100%;
     background: var(--page);
     color: white;
     font-size: 1rem;
+
+    
   }
 
 `;

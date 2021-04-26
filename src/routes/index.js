@@ -10,7 +10,7 @@ import Contato from '../pages/Contato'
 const Routes= () => (
 
 <Switch>
-    <Route path="/home" exact={true} component={Home} />
+    <Route path="/" exact={true} component={Home} />
     <Route path="/projeto" exact={true} component={ProjetoPedagogico} />
     <Route path="/noticias" exact={true} component={Noticias} />
     <Route path="/resolucao" exact={true} component={Documentos} />

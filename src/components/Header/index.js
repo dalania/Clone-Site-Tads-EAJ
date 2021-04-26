@@ -4,10 +4,6 @@ import { NavLink } from "react-router-dom";
 
 export default function Header(){
   
-
-  
-  
-
  
   return (
     <>
@@ -18,7 +14,7 @@ export default function Header(){
        
         <Ul>
           
-          <Li > <NavLink activeClassName="active" to="/home" > 
+          <Li > <NavLink activeClassName="active" to="/" > 
           Home
           </NavLink>
           </Li>
