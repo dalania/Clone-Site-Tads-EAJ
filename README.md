@@ -26,17 +26,38 @@ de Programação Visual e Autoria Web.
       <img style="margin:5px" alt="Login" src="https://res.cloudinary.com/dwufco8zm/image/upload/v1625623695/home_hftgyb.png" width="800px">
     </p>
     <p align="center" style="display: flex; justify-content: center;  align-items: flex-start; margin:4px">
-      <img style="margin:5px" alt="Login" src="https://res.cloudinary.com/dwufco8zm/image/upload/v1625623816/home2_qjg6aw.png" width="800px">
+      <img style="margin:5px" alt="Login" src="https://res.cloudinary.com/dwufco8zm/image/upload/v1625623816/home2_qjg6aw.png" width="750px">
     </p>
 </details>
 
 <details>
   <summary>Calendrário Acadêmico </summary>
   <p align="center" style="display: flex; justify-content: center; align-items: flex-start; margin:4px">
-      <img style="margin:5px" alt="Login" src="https://res.cloudinary.com/dwufco8zm/image/upload/v1625624057/calendrario_bv7rs5.png" width="800px">
+      <img style="margin:5px" alt="Login" src="https://res.cloudinary.com/dwufco8zm/image/upload/v1625624057/calendrario_bv7rs5.png" width="750px">
     </p>
-    
 </details>
+
+<details>
+  <summary>Calendrário Acadêmico </summary>
+  <p align="center" style="display: flex; justify-content: center; align-items: flex-start; margin:4px">
+      <img style="margin:5px" alt="Login" src="https://res.cloudinary.com/dwufco8zm/image/upload/v1625624223/projetop_kdro73.png" width="750px">
+    </p>
+</details>
+
+<details>
+  <summary>Projeto Pedagógico </summary>
+  <p align="center" style="display: flex; justify-content: center; align-items: flex-start; margin:4px">
+      <img style="margin:5px" alt="Login" src="https://res.cloudinary.com/dwufco8zm/image/upload/v1625624223/projetop_kdro73.png" width="750px">
+    </p>
+</details>
+
+<details>
+  <summary>Notícias </summary>
+  <p align="center" style="display: flex; justify-content: center; align-items: flex-start; margin:4px">
+      <img style="margin:5px" alt="Login" src="https://res.cloudinary.com/dwufco8zm/image/upload/v1625624459/noticias_egf5iy.png" width="750px">
+    </p>
+</details>
+
 
 
 ##  Autores
