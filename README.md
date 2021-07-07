@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Page initial" src="https://res.cloudinary.com/dwufco8zm/image/upload/v1625623295/tads1_ngwhzi.png" />
+    <img alt="Page initial" src="https://res.cloudinary.com/dwufco8zm/image/upload/v1625623695/home_hftgyb.png" />
     <br>
     
 </h1>
@@ -23,7 +23,7 @@ de Programação Visual e Autoria Web.
 <details>
   <summary>Home</summary>
   <p align="center" style="display: flex; align-items: flex-start; justify-content: center; margin:5px">
-      <img style="margin:5px" alt="Login" src="https://res.cloudinary.com/dwufco8zm/image/upload/v1625623295/tads1_ngwhzi.png" width="800px">
+      <img style="margin:5px" alt="Login" src="https://res.cloudinary.com/dwufco8zm/image/upload/v1625623695/home_hftgyb.png" width="800px">
     </p>
 </details>
 
