@@ -65,6 +65,17 @@ de Programação Visual e Autoria Web.
     </p>
 </details>
 
+<details>
+  <summary>Contato </summary>
+  <p align="center" style="display: flex; justify-content: center; align-items: flex-start; margin:4px">
+      <img style="margin:5px" alt="Login" src="https://res.cloudinary.com/dwufco8zm/image/upload/v1625624767/contato_bxi8nb.png" width="750px">
+    </p>
+    <p align="center" style="display: flex; justify-content: center; align-items: flex-start; margin:4px">
+      <img style="margin:5px" alt="Login" src="https://res.cloudinary.com/dwufco8zm/image/upload/v1625624767/contato_bxi8nb.png" width="750px">
+    </p>
+    
+</details>
+
 
 ##  Autores
 * [Dalania Silva](https://github.com/linkParaPerfil) - *Desenvolvedora Frontend da aplicação*  
