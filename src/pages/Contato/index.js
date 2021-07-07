@@ -1,6 +1,6 @@
 import React, {useRef} from 'react';
 import * as Yup from 'yup';
-import { Form } from './style'
+import { Form } from './style';
 import {Container,InformationContact, SectionForm, Maps} from './style';
 import Header from '../../components/Header'
 

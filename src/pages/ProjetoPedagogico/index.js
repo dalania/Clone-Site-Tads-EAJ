@@ -1,16 +1,23 @@
 import Footer from '../../components/Footer';
 import Header from '../../components/Header'
 import {Container, Content} from './style'
+import Aos from 'aos';
+import 'aos/dist/aos.css';  
+import { useEffect } from 'react';
 export default function ProjetoPedagogico(){
+  useEffect(()=>{
+    Aos.init({duration:2000})
+  },[])
   return(
+    
 
-    <Container>
+    <Container >
 
       <Header />
 
       <h2> Projeto Pedagógico do Curso</h2>
 
-      <Content>
+      <Content data-aos="fade-up">
           <h3> Perfil Profissional</h3>
           <p>
             O profissional egresso do curso de Tecnologia em Análise e Desenvolvimento de Sistemas adquire um elenco de
@@ -76,7 +83,7 @@ export default function ProjetoPedagogico(){
 
       <Content>
       <h3> Avaliação do Curso </h3>
-      <p> 
+      <p data-aos="fade-up"> 
         Após a atualização do Projeto Pedagógico do Curso, este deverá ser continuamente avaliado pelo Núcleo Docente Estruturante (NDE) e Colegiado do Curso para assegurar o processo de consolidação do mesmo.
         O NDE será composto por 5 (cinco) docentes pertencentes ao corpo docente do Curso, com doutorado obtido em programa de pós-graduação stricto sensu, e em regime de trabalho de tempo integral. 
         Será assegurada a renovação parcial (dois integrantes) a cada 3 anos, de modo a garantir a continuidade no processo de acompanhamento do Curso, estando o Núcleo, dessa forma, de acordo com a

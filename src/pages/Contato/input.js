@@ -12,6 +12,7 @@ export default function Input({name, ...rest}){
       ref: inputRef.current,
       path: 'value'
     })
+
   }, [fieldName, registerField]);
   
   return(

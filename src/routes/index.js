@@ -3,9 +3,10 @@ import { Switch, Route } from 'react-router-dom';
 import Home from '../pages/Home'
 import ProjetoPedagogico from '../pages/ProjetoPedagogico';
 import Noticias from '../pages/Noticias';
-import Documentos from '../pages/Documentos'
-import Calendario from '../pages/Calendario'
-import Contato from '../pages/Contato'
+import Documentos from '../pages/Documentos';
+import Calendario from '../pages/Calendario';
+import Contato from '../pages/Contato';
+import Teste from '../pages/Testes';
 
 const Routes= () => (
 
@@ -16,6 +17,7 @@ const Routes= () => (
     <Route path="/resolucao" exact={true} component={Documentos} />
     <Route path="/calendario" exact={true} component={Calendario} />
     <Route path="/contato" exact={true} component={Contato} />
+    <Route path="/teste" exact={true} component={Teste} />
 </Switch>
 
 
