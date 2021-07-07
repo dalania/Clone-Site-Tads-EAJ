@@ -38,13 +38,6 @@ de Programação Visual e Autoria Web.
 </details>
 
 <details>
-  <summary>Calendrário Acadêmico </summary>
-  <p align="center" style="display: flex; justify-content: center; align-items: flex-start; margin:4px">
-      <img style="margin:5px" alt="Login" src="https://res.cloudinary.com/dwufco8zm/image/upload/v1625624223/projetop_kdro73.png" width="750px">
-    </p>
-</details>
-
-<details>
   <summary>Projeto Pedagógico </summary>
   <p align="center" style="display: flex; justify-content: center; align-items: flex-start; margin:4px">
       <img style="margin:5px" alt="Login" src="https://res.cloudinary.com/dwufco8zm/image/upload/v1625624223/projetop_kdro73.png" width="750px">
