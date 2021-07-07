@@ -22,8 +22,11 @@ de Programação Visual e Autoria Web.
 ## Layout
 <details>
   <summary>Home</summary>
-  <p align="center" style="display: flex; align-items: flex-start; justify-content: center; margin:5px">
+  <p align="center" style="display: flex; justify-content: center;  align-items: flex-start; margin:4px">
       <img style="margin:5px" alt="Login" src="https://res.cloudinary.com/dwufco8zm/image/upload/v1625623695/home_hftgyb.png" width="800px">
+    </p>
+    <p align="center" style="display: flex; justify-content: center;  align-items: flex-start; margin:4px">
+      <img style="margin:5px" alt="Login" src="https://res.cloudinary.com/dwufco8zm/image/upload/v1625623816/home2_qjg6aw.png" width="800px">
     </p>
 </details>
 
